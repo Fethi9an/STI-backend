@@ -4,22 +4,21 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start":"node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fethi9an/STI-backend.git"
+    "url": "git+https://github.com/YaffetK/Sti-Backend.git"
   },
-  "author": "fethi9an",
+  "author": "Yaffet",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fethi9an/STI-backend/issues"
+    "url": "https://github.com/YaffetK/Sti-Backend/issues"
   },
-  "homepage": "https://github.com/Fethi9an/STI-backend#readme",
+  "homepage": "https://github.com/YaffetK/Sti-Backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.2",
     "healthcheck": "^0.1.3"
-  },
-  "devDependencies": {}
+  }
 }
